@@ -1,4 +1,4 @@
-# convertbondsportfolio
+# Convertible Bonds Portfolio Manager
 Convertible Bonds Portfolio Manager
 
 The Convertible Bonds Portfolio Manager is a web-based application that allows users to manage and track their investments in convertible bonds. It provides a comprehensive platform for investors to monitor their convertible bond portfolios, make informed decisions, and analyze the performance of their investments. The project can be developed using C# and various web technologies. 
